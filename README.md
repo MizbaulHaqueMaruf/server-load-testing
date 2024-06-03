@@ -22,3 +22,8 @@
 #### Synchronous
 
 - 1000 request in the server and see the response time of different databases
+
+### Endpoints
+
+- GET, POST endpoints for each database and cache
+- One endpoint for seed data
